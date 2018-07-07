@@ -1,0 +1,15 @@
+Raspberry Pi				Arduino Uno				Relais Shield	
+					
+USB		Webcam		A0	Vilte livello acqua		1mo relais	Lampade 
+USB		Arduino Uno		D2	Sensore CO2			2ndo relais	Pompa Acqua
+Micro USB	Trasformatore		D5	Ventola computer		
+					D6	Scheda Relais		
+					D7	Scheda Relais		
+					SCL	Sensore Temperatura		
+					SDA	Sensore Temperatura		
+					GND	Massa comune		
+					+5V	Tensione per Scheda Relais		
+					+5V	Tensione per livello acqua		
+					+5V	Tensione per sensore temperatura		
+					+3V	Tensione per sensore CO2		
+
