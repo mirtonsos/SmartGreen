@@ -1,0 +1,15 @@
+Quantita'	Descrizione
+1		Rasberry Pi - qualsiasi modello
+1		Arduin Uno
+1		Scatola di plastica
+3		Lampada per piante
+1		CO2 sensor CCS811
+2		Vite da 3cm per  livello acqua
+1		Ventola da computer
+1		Pompa per acquario alimentata da USB
+1		Sensore di temperatura DHT22
+1		Resistenza  50watt riscaldamento acqua
+1		Webcam USB
+2		Breadboard
+1		Cavi elettrici  3m
+1		Shield 4 relais per Arduino
