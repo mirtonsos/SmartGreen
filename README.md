@@ -6,6 +6,7 @@ SmartGreen è una serra idroponica automatizzata con Arduino e Raspberry Pi, con
 
 Per il progetto della serra basta scaricare il file serra.skp fatto con Sketchup la descrizione e in inglese
 
-Istruzioni: 
+Istruzioni:
+
 Installare il file serra.ino su Arduino Uno utilizzando Arduino IDE
 
