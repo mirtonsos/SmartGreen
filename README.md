@@ -6,7 +6,27 @@ SmartGreen è una serra idroponica automatizzata con Arduino e Raspberry Pi, con
 
 Per il progetto della serra basta scaricare il file serra.skp fatto con Sketchup la descrizione e in inglese
 
-Istruzioni:
+materiale:
+1) Sacatola di plastica
+2) Luci adatte per piante
+3) Scatola per piantine
+4) Ventola
+5) Arduino
+6) Raspberry pi
+7) Pompa con tubo
+8) Resistenza per acqua
+9) Videocamera
+10) Sensore di CO2
+11) Sensore di temperatura
+12) Cavi elettrici
+13) Breadboard
+14) Sensore per umidita terra
 
-Installare il file serra.ino su Arduino Uno utilizzando Arduino IDE
+Istruzioni:  
 
+1) Installare il file serra.ino su Arduino Uno utilizzando Arduino IDE
+2) Fare tre buchi sull tappo della scatola per le luci
+3) Incollare le luci sul tappo con colla a caldo
+4) Fare due buchi su ogni scatola per pianta uno abastanza grosso e laltro piccolo e di lato per il tubo della pompa
+5) Fare dei buchi sul tubo della pompa
+6) incollare il tubo sulle scatola per piante (come nella foto scatola-per-piante)
