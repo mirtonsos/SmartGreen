@@ -29,4 +29,4 @@ Istruzioni:
 3) Incollare le luci sul tappo con colla a caldo
 4) Fare due buchi su ogni scatola per pianta uno abastanza grosso e laltro piccolo e di lato per il tubo della pompa
 5) Fare dei buchi sul tubo della pompa
-6) incollare il tubo sulle scatola per piante (come nella foto scatola-per-piante)
+6) incollare il tubo sulle scatola per piante (come nella foto scatola-piante nella cartella imagini)
