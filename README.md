@@ -1,7 +1,9 @@
 # SmartGreen
 
 English translation coming soon
+
 to try the bot:https://t.me/SerraMartiBot
+
 per provare il bot:https://t.me/SerraMartiBot
 
 SmartGreen è una serra idroponica automatizzata con Arduino e Raspberry Pi, controllabile da un'app e da un bot Telegram.
