@@ -32,7 +32,12 @@ Istruzioni:
 1) Installare il file serra.ino su Arduino Uno utilizzando Arduino IDE
 2) Installare il file serrapy.py nell Raspberry pi (attenzione va aggiunto l'id del bot)
 2) Fare tre buchi sull tappo della scatola per le luci (foto buchi-luci cartella images)
-3) Incollare le luci sul tappo con colla a caldo (foto luci-colla cartella inmages)
+3) Incollare le luci sul tappo con colla a caldo (foto luci-colla cartella images)
 4) Fare due buchi su ogni scatola per pianta uno abastanza grosso e laltro piccolo e di lato per il tubo della pompa
 5) Fare dei buchi sul tubo della pompa
-6) incollare il tubo sulle scatola per piante (foto scatola-piante cartella images)
+6) Incollare il tubo sulle scatola per piante (foto scatola-piante cartella images)
+7) Mettere il riscaldatore senza che tocchi le scatole di fianco (foto scatola-piante cartella images)
+8) Incollare i sensori sul tappo della scatola(attenzione fare una scatola protettiva per i sensori si potrebbero rompere con l'umidità)
+10) Attacare a livello massimo dell acqua il "sensore per umidita terrra"(foto SUT cartella images)
+11) Attacare la pompa a tubo e poi colla a caldo sotto la pompa e attacalo alla scatola - se si voule che la circolazione funziona meglio attacare un altro piccolo tubo alla pompa che arriva vicino al riscaldatore 
+12) Installare una scatola sopra il tapppo e metterci dentro Arduino, Raspberry e collegare i fili (foto non ancora disponibile)
