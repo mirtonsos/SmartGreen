@@ -2,7 +2,7 @@
 ### SmartGreen è una serra idroponica automatizzata con Arduino e Raspberry Pi, controllabile da un'app e da un bot Telegram.
 ##### English translation coming soon
   
-il bot:https://t.me/SerraMartiBot
+Il bot:https://t.me/SerraMartiBot
 
 Per il progetto della serra basta scaricare il file serra.skp fatto con Sketchup la descrizione e in inglese
 
@@ -35,6 +35,6 @@ Istruzioni:
 8) Incollare i sensori sul tappo della scatola(attenzione fare una scatola protettiva per i sensori si potrebbero rompere con l'umidità)
 10) Attacare a livello massimo dell acqua il "sensore per umidita terrra"(foto SUT cartella images)
 11) Attacare la pompa a tubo e poi colla a caldo sotto la pompa e attacalo alla scatola - se si voule che la circolazione funziona meglio attacare un altro piccolo tubo alla pompa che arriva vicino al riscaldatore 
-12) fare un buco preciso per la ventola e attacatela con la colla accaldo.
+12) Fare un buco preciso per la ventola e attacatela con la colla accaldo.
 12) Installare una scatola sopra il tapppo e metterci dentro Arduino, Raspberry e collegare i fili (foto command in cartella images) **A VOSTRO RISCHIO** 
 13) Prima di fare funzionare la serra con le piante fare un risciacquo con tutto acceso
